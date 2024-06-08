@@ -1,4 +1,4 @@
-@media only screen and(max-width:768px) {
+@media (max-width:768px) {
     header .navbar-brand {
         padding-left: 1rem;
     }
@@ -58,13 +58,13 @@
     } */
 }
 
-@media only screen and(max-width:480px) {
+@media (max-width:480px) {
     footer .row .col-md-2 {
         margin-top: 8vmin;
     }
 }
 
-@media only screen and(max-width:320px) {
+@media (max-width:320px) {
     .section-4 .card {
         width: 18rem;
     }
